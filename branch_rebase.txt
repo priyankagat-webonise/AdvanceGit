@@ -1,0 +1,5 @@
+
+We can create branch on github with git branch <branch name> command. There is always default branch that is master which get created when repository created. We can move to another branch by using git checkout command. wherenever we adding any file on repository without creating branch it will get add to master branch. Multiple people can work on same branch and then they can merge thier work.
+
+
+with rebase command you can take all changes which are committed on one branch and replay them on another and getting the diff introduced by each commit of the branch we are on, saving those diffs to temporary files, resetting the current branch to the same commit as the branch we are rebasing onto, and finally applying changes.

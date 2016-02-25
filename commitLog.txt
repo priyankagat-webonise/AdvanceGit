@@ -1,0 +1,57 @@
+ec28ec1 HEAD@{0}: rebase: checkout fileSecond
+b228897 HEAD@{1}: checkout: moving from develop to develop
+b228897 HEAD@{2}: commit: added user.txt
+e735c97 HEAD@{3}: checkout: moving from fileSecond to develop
+ec28ec1 HEAD@{4}: commit: added user.txt on filesecond
+5d0ab78 HEAD@{5}: checkout: moving from master to fileSecond
+5d0ab78 HEAD@{6}: checkout: moving from master to master
+5d0ab78 HEAD@{7}: checkout: moving from master to master
+5d0ab78 HEAD@{8}: checkout: moving from develop to master
+e735c97 HEAD@{9}: checkout: moving from develop to develop
+e735c97 HEAD@{10}: checkout: moving from master to develop
+5d0ab78 HEAD@{11}: rebase -i (finish): returning to refs/heads/master
+5d0ab78 HEAD@{12}: rebase -i (reword): added myfile that is new
+b8352fc HEAD@{13}: cherry-pick: fast-forward
+e735c97 HEAD@{14}: rebase -i (start): checkout develop
+b8352fc HEAD@{15}: rebase -i (finish): returning to refs/heads/master
+b8352fc HEAD@{16}: rebase -i (start): checkout master
+b8352fc HEAD@{17}: commit: added new.txt
+e735c97 HEAD@{18}: rebase -i (finish): returning to refs/heads/master
+e735c97 HEAD@{19}: rebase -i (start): checkout develop
+e735c97 HEAD@{20}: rebase -i (finish): returning to refs/heads/master
+e735c97 HEAD@{21}: rebase -i (start): checkout master
+e735c97 HEAD@{22}: rebase -i (finish): returning to refs/heads/master
+e735c97 HEAD@{23}: rebase -i (start): checkout master
+e735c97 HEAD@{24}: rebase -i (finish): returning to refs/heads/master
+e735c97 HEAD@{25}: rebase -i (start): checkout develop
+e735c97 HEAD@{26}: checkout: moving from master to master
+e735c97 HEAD@{27}: rebase -i (finish): returning to refs/heads/master
+e735c97 HEAD@{28}: rebase -i (start): checkout develop
+c0f615d HEAD@{29}: rebase -i (finish): returning to refs/heads/master
+c0f615d HEAD@{30}: rebase -i (start): checkout master
+c0f615d HEAD@{31}: rebase: aborting
+e735c97 HEAD@{32}: checkout: moving from develop to develop
+e735c97 HEAD@{33}: commit: added second.txt on develop
+8075e2e HEAD@{34}: checkout: moving from master to develop
+c0f615d HEAD@{35}: checkout: moving from develop to master
+8075e2e HEAD@{36}: rebase -i (finish): returning to refs/heads/develop
+8075e2e HEAD@{37}: rebase -i (start): checkout master
+8075e2e HEAD@{38}: checkout: moving from develop to develop
+8075e2e HEAD@{39}: rebase -i (finish): returning to refs/heads/develop
+8075e2e HEAD@{40}: rebase -i (start): checkout master
+8075e2e HEAD@{41}: rebase -i (finish): returning to refs/heads/develop
+8075e2e HEAD@{42}: rebase -i (start): checkout develop
+8075e2e HEAD@{43}: commit: added first.txt in develop
+c0f615d HEAD@{44}: checkout: moving from master to develop
+c0f615d HEAD@{45}: rebase -i (finish): returning to refs/heads/master
+c0f615d HEAD@{46}: rebase -i (start): checkout develop
+c0f615d HEAD@{47}: rebase -i (finish): returning to refs/heads/master
+c0f615d HEAD@{48}: rebase -i (start): checkout master
+c0f615d HEAD@{49}: checkout: moving from master to master
+c0f615d HEAD@{50}: rebase -i (finish): returning to refs/heads/master
+c0f615d HEAD@{51}: rebase -i (start): checkout develop
+c0f615d HEAD@{52}: rebase -i (finish): returning to refs/heads/master
+c0f615d HEAD@{53}: rebase -i (start): checkout master
+c0f615d HEAD@{54}: checkout: moving from master to master
+c0f615d HEAD@{55}: pull origin master: Fast-forward
+6cbe678 HEAD@{56}: commit (initial): first added
